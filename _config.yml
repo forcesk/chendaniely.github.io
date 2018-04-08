@@ -8,7 +8,7 @@ description: 'A Jekyll theme adapted from <a href="https://github.com/chendaniel
 #baseurl: ""
 url: http://forcesk.github.io
 #logo: '/public/dc/dc-69.png'
-logo: '/public/dc/2000NASA.png'
+logo: '/public/dc/image.png'
 
 # Site configurations
 gems:
