@@ -60,13 +60,13 @@ nav:
     #- { Tags: '/blog/tags/' }
   Projects:
     #- /projects/
-  Talks:
+  #Talks:
     #- /talks/
-  Research:
+  #Research:
     #- /research/
 #   Teaching:
 #     - '/teaching/'
-#   Data Science:
+  Data Science:
 #     - /data_science/
   About:
    # - '/about/'
