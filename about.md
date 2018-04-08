@@ -11,17 +11,13 @@ title: About
 </style>
 
 <p class="message">
-  <strong>Currently:</strong>  Graduate Student at Virginia Tech (VT) in
-  <a href="http://gbcb.vbi.vt.edu/">Genetics, Bioinformatics, and Computational Biology</a> (GBCB)
-  with a primary track in Statistics and secondary tracks in Computer Science and Life Science.
+  <strong>Currently:</strong>  Estudiante en la Universidad Veracruzana en Ingenieria Informática.
   <br>
-  Working at the
-  <a href="https://www.bi.vt.edu/">Biocomplexity Institute of Virginia Tech</a> (BI) in the
-  <a href="https://www.bi.vt.edu/sdal">Social and Decision Analytics Laboratory</a> (SDAL) and
-  <a href="https://www.bi.vt.edu/ndssl">Network Dynamics and Simulation Science Laboratory</a> (NDSSL) with
-  <a href="http://mark-orr.github.io/">Mark Orr</a>,
-  <a href="http://www.kajaabbas.com/">Kaja Abbas</a>,
-  <a href="http://nursing.columbia.edu/profile/jmerrill">Jacqueline</a> <a href="http://www.columbia.edu/~jam119/">Merrill</a>
+  Interesado en:
+    Deep Learning
+    Bioinformática
+    Biología Molecular
+    Machine Learning
   <br>
   <br>
   Volunteer instructor for
@@ -72,17 +68,3 @@ title: About
   <br>
   CV
 </p>
-
-<h1>Podcasts</h1>
-
-
-{% for podcast in site.podcasts %}
-  <div class="floated_img">
-    <a href="{{ podcast.url }}">
-      <img src="{{ podcast.image }}"
-      title="{{ podcast.name }}"
-      style="width:{{ site.podcast_settings.global_size_width }};
-             height:{{ site.podcast_settings.global_size_height }};">
-    </a>
-  </div>
-{% endfor %}
