@@ -34,7 +34,7 @@ version: 1.0.0
 # About/contact
 author:
   name: forcesk
-  description: Using computational methods and network science in <strong>public health, epidemiology, psychology, and medicine</strong>.
+  description: Biology,Computacional Sciences, Machine Learning, Deep Learning, Bioinformatics</strong>.
   #gravatar: bafc04ef618c2c9d8d71fac8448bb8c7 # md5 hash of your email address
   contact:
     #linkedin:  
@@ -44,7 +44,7 @@ author:
     #instagram: 
     #lastfm: 
     # weibo:     
-    # email:     
+     email: Emm.castillog@gmail.com     
     #orcid:     
 
 # Navigation (2nd level links supported)
@@ -56,11 +56,11 @@ nav:
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
   Projects:
-    - /projects/
+    #- /projects/
   Talks:
-    - /talks/
+    #- /talks/
   Research:
-    - /research/
+    #- /research/
 #   Teaching:
 #     - '/teaching/'
 #   Data Science:
