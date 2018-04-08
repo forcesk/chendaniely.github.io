@@ -52,9 +52,9 @@ nav:
   Home:
     - '/'
   Blog:
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+   # - '/blog/'
+   # - { Categories: '/blog/categories/' }
+    #- { Tags: '/blog/tags/' }
   Projects:
     #- /projects/
   Talks:
@@ -65,7 +65,7 @@ nav:
 #     - '/teaching/'
 #   Data Science:
 #     - /data_science/
-  #About:
+  About:
    # - '/about/'
 
 # Where are tags and categories displayed
