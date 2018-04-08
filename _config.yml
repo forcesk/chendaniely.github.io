@@ -65,8 +65,8 @@ nav:
 #     - '/teaching/'
 #   Data Science:
 #     - /data_science/
-  About:
-    - '/about/'
+  #About:
+   # - '/about/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
