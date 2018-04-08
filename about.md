@@ -11,7 +11,7 @@ title: About
 </style>
 
 <p class="message">
-  <strong>Currently:</strong>  Estudiante en la Universidad Veracruzana en Ingenieria Informática.
+  <strong>Currently:</strong> Universidad Veracruzana, Ingenieria Informática.
   <br>
   <br>
   Interesado en:
@@ -31,5 +31,5 @@ title: About
   <br>
   <br>
   
-  <a href="https://www.coursera.org/user/f5974a1ea43bf6ea6dfb17f75e559fc3">Coursera Profile</a>.
+  <a href="https://www.coursera.org/user/f5974a1ea43bf6ea6dfb17f75e559fc3">Coursera Profile</a>
 </p>
