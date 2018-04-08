@@ -14,15 +14,15 @@ title: About
   <strong>Currently:</strong> Universidad Veracruzana, Ingenieria Informática.
   <br>
   <br>
-  Interesado en:
+  Interested in:
     <br>
-    Deep Learning
-    Bioinformatics
-    Molecular Biology
-    Machine Learning
+    Deep Learning <br>
+    Bioinformatics<br>
+    Molecular Biology<br>
+    Machine Learning<br>
   <br>
   <br>
-  Volunteer instructor for
+  Volunteer instructor for <br>
   <a href="https://flisol.info/FLISOL2017/Mexico/Veracruz">Flisol 2017 Universidad Veracruzana</a>
     <br><br>
   
