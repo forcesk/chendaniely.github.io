@@ -13,7 +13,9 @@ title: About
 <p class="message">
   <strong>Currently:</strong>  Estudiante en la Universidad Veracruzana en Ingenieria Informática.
   <br>
+  <br>
   Interesado en:
+    <br>
     Deep Learning
     Bioinformatics
     Molecular Biology
@@ -22,6 +24,7 @@ title: About
   <br>
   Volunteer instructor for
   <a href="https://flisol.info/FLISOL2017/Mexico/Veracruz">Flisol 2017 Universidad Veracruzana</a>
+    <br><br><br>
   
   Staff at 
   <a href="https://es-la.facebook.com/Flisoluv2017/">Festival del Software Libre Universidad Veracruzana</a>.
