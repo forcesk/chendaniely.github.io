@@ -1,11 +1,11 @@
 # ASCII Text Art: http://patorjk.com/software/taag/#p=display&f=Slant&t=chendaniely
 
 # Site Info
-title: Daniel Chen
-tagline: 'Perpetually Under Construction'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+title: Emmanuel Castillo
+tagline: 'Under Construction'
+description: 'A Jekyll theme adapted from <a href="https://github.com/chendaniely/chendaniely.github.io" target="_blank">chendaniely </a> <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 #baseurl: ""
-url: http://chendaniely.github.io
+url: http://forcesk.github.io
 logo: '/public/dc/dc-69.png'
 
 # Site configurations
@@ -33,19 +33,19 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: chendaniely
+  name: forcesk
   description: Using computational methods and network science in <strong>public health, epidemiology, psychology, and medicine</strong>.
-  gravatar: bafc04ef618c2c9d8d71fac8448bb8c7 # md5 hash of your email address
+  #gravatar: bafc04ef618c2c9d8d71fac8448bb8c7 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/danielychen
-    github:    https://github.com/chendaniely
+    #linkedin:  
+    github:    https://github.com/forcesk
     # facebook:  <hide>
-    twitter:   https://twitter.com/chendaniely
-    instagram: https://www.instagram.com/maveri2k
-    lastfm: http://www.last.fm/user/Maveri2k
-    # weibo:     http://weibo.com/41173780
-    # email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
-    orcid:     http://orcid.org/0000-0003-3857-1741
+    twitter:   https://twitter.com/iEmmCastillo_
+    #instagram: 
+    #lastfm: 
+    # weibo:     
+    # email:     
+    #orcid:     
 
 # Navigation (2nd level links supported)
 nav:
@@ -74,8 +74,8 @@ category_page: '/blog/categories/'
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-54964509-2' # leave blank if you don't want google analytics
-disqus_short_name: 'chendaniely' # leave blank if you don't want disqus
+#google_analytics_token: ' ' # leave blank if you don't want google analytics
+disqus_short_name: ' ' # leave blank if you don't want disqus
 
 hero:
   image: https://imgs.xkcd.com/comics/here_to_help.png
