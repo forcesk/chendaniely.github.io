@@ -4,7 +4,7 @@
 title: Emmanuel Castillo
 tagline: 'Under Construction'
 description: 'A Jekyll theme adapted from <a href="https://github.com/chendaniely/chendaniely.github.io" target="_blank">chendaniely </a> <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-Gravatar: f67902456f1aa69f9b938353391b5069
+
 #baseurl: ""
 url: http://forcesk.github.io
 logo: '/public/dc/dc-69.png'
@@ -35,8 +35,9 @@ version: 1.0.0
 # About/contact
 author:
   name: forcesk
-  description: Biology,Computacional Sciences, Machine Learning, Deep Learning, Bioinformatics</strong>.
-  #gravatar: bafc04ef618c2c9d8d71fac8448bb8c7 # md5 hash of your email address
+  description: Biology,Computacional Sciences, Machine Learning, Deep Learning, <strong>Bioinformatics</strong>.
+  gravatar: f67902456f1aa69f9b938353391b5069
+
   contact:
     #linkedin:  
     github:    https://github.com/forcesk
