@@ -69,7 +69,7 @@ nav:
   Data Science:
 #     - /data_science/
   About:
-   # - '/about/'
+    - '/about/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
