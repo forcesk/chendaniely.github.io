@@ -31,7 +31,7 @@ collections:
 
 jupyter_notebooks: /notebooks/
 
-version: 1.0.0
+version: 0.3.0
 
 # About/contact
 author:
