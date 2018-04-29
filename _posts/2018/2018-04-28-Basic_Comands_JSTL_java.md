@@ -6,10 +6,6 @@ date:   2018-04-28
 categories: Data Engineer
 
 tags:
-  - sdal
-  - data science
-  - dspg
-  - dspg17
   - java
   - JSTL
   - MySQL
