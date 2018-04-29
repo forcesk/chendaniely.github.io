@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Basic Comands JSTL-java"
+title:  "Comandos Básicos JSTL"
 date:   2018-04-28
 
-categories: Tutorials
+categories: Tutorial
 
 tags:
   - java
@@ -260,7 +260,6 @@ se realiza un "foreach" mediante el cual se puede imprimir cada uno de los resul
     </body>
 </html>
 ```
-
 ### Documentos
 > [Link Aqui.](https://github.com/forcesk/JavaJSP/tree/master/Documentos%20de%20consulta)
 
