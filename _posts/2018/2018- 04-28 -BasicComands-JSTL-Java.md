@@ -11,7 +11,7 @@ tags:
   - MySQL
   - WEB
   - DB
-  ---
+ ---
 
 # Conexión a base de datos MySQL usando la Libreria JSTL
 
