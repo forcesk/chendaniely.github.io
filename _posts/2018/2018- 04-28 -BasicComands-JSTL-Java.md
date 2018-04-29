@@ -27,6 +27,8 @@ tags:
 * Libreria JSTL
 * Estar en una pagina *.JSP*
 
+<!-- more -->
+
 ## Importar librerias Necesarias en el JSP
 ```jsp
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
