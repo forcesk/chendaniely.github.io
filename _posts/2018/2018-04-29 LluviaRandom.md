@@ -14,6 +14,8 @@ tags:
 
 ## Simple Lluvia Random en el navegador con p5js
 
+> # Ver el código en Acción [aqui.](https://forcesk.github.io/p5js-Repo/RandomRain/)
+
 ```js
 var spot =
 {
@@ -58,4 +60,4 @@ function mousePressed()
 > [Link al Repositorio completo.](https://github.com/forcesk/p5js-Repo/tree/gh-pages/RandomRain)
 
 ### Links de interés
-> [Link al video de Shiffman donde se explica](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
+> [Link al video de Shiffman donde se explica el código](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
