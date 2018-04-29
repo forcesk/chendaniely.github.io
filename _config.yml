@@ -54,9 +54,9 @@ author:
 nav:
   Home:
     - '/'
-  #Blog:
-    #- '/blog/'
-    #- { Categories: '/blog/categories/' }
+  Blog:
+   # - '/blog/'
+   # - { Categories: '/blog/categories/' }
     #- { Tags: '/blog/tags/' }
   Projects:
     #- /projects/
