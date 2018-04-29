@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Analysis-Based Project Templates"
-date:   2018-01-23
+date:   2018-04-28
 
 categories: Data Engineer
 
