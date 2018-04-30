@@ -16,7 +16,7 @@ tags:
 
 > ### Ver el código en Acción [aqui.](https://forcesk.github.io/p5js-Repo/RandomRain/)
 
-```js
+```javascript
 var spot =
 {
   x: 50,
@@ -57,7 +57,12 @@ function mousePressed()
 }
 
 ```
-> [Link al Repositorio completo.](https://github.com/forcesk/p5js-Repo/tree/gh-pages/RandomRain)
+
+<!-- more -->
+
+
 
 ### Links de interés
+> [Link al Repositorio completo.](https://github.com/forcesk/p5js-Repo/tree/gh-pages/RandomRain)
+
 > [Link al video de Shiffman donde se explica el código](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
