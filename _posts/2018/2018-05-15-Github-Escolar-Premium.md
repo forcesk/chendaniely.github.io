@@ -18,7 +18,6 @@ tags:
 * Ser Estudiante activo en alguna universidad.
 * Contar con un correo institucional "@TuUniversidad.com"
 * Puedes hacer premium tu cuenta de Github actual o crear una nueva.
-
 <!-- more -->
 
 ### Para realizar el proceso de Activar tu cuenta a PREMIUM
