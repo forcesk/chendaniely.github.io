@@ -20,7 +20,7 @@ tags:
 * Puedes hacer premium tu cuenta de Github actual o crear una nueva.
 <!-- more -->
 
-### Para realizar el proceso de Activar tu cuenta a PREMIUM
+### Para realizar el proceso de Activación
 
 * Para activar tu cuenta a Premium ingresa a [Este Link.](https://education.github.com/pack)
 
