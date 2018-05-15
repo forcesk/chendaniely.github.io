@@ -12,12 +12,13 @@ tags:
   - Git
 ---
 
-# Obtener Versión Premium de Github Gratis para Estudiantes
+# Obtener Github Premium Gratis
 
 ### Requisitos
 * Ser Estudiante activo en alguna universidad.
 * Contar con un correo institucional "@TuUniversidad.com"
 * Puedes hacer premium tu cuenta de Github actual o crear una nueva.
+
 <!-- more -->
 
 ### Para realizar el proceso de Activación
