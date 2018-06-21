@@ -31,7 +31,7 @@ collections:
 
 jupyter_notebooks: /notebooks/
 
-version: 0.4.1
+version: 0.5.1
 
 # About/contact
 author:
@@ -77,7 +77,7 @@ category_page: '/blog/categories/'
 
 # Puglins
 mathjax: true # whether support mathjax
-#google_analytics_token: ' ' # leave blank if you don't want google analytics
+google_analytics_token: 'UA-121209716-1' # leave blank if you don't want google analytics
 disqus_short_name: 'forces' # leave blank if you don't want disqus
 
 hero:
