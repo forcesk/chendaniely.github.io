@@ -29,10 +29,10 @@ tags:
 ```
 title: Agenda Ambiental
 author: Universidad Veracruzana
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # 
   Interfacultades de Ingenieria - Agenda Ambiental 2018-2019.
-baseurl: "/IQ-UV/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/IQ-UV/" 
+url: "" 
 twitter_username: ComunicacionUV
 github_username:  forcesk
 title_separator: "|"
