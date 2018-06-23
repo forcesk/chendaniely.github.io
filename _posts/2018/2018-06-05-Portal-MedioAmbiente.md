@@ -12,7 +12,9 @@ tags:
   - WEB
 ---
 
-# Portal del día mundial del medio Ambiente 2018 Universidad Veracruzana Fac. de Ingenieria
+# Portal del día mundial del medio Ambiente 2018 
+## Universidad Veracruzana 
+## Fac. de Ingenieria
 
 ### Basado en Jekyll y Github Pages
 * [Jekyll](https://jekyllrb.com)
