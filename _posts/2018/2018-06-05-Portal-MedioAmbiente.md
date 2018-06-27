@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Portal para el día mundial del medio ambiente"
+title:  "Portal para el día mundial del medio ambiente 2018"
 date:   2018-06-05
 
 categories: RandomCode
@@ -12,7 +12,6 @@ tags:
   - WEB
 ---
 
-# Portal del día mundial del medio Ambiente 2018 
 ## Universidad Veracruzana, Fac. de Ingenieria.
 
 
