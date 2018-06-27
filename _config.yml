@@ -31,11 +31,11 @@ collections:
 
 jupyter_notebooks: /notebooks/
 
-version: 0.5.1
+version: 0.5.4
 
 # About/contact
 author:
-  name: Emmanuel Castillo G.
+  name: Emmanuel Castillo.
   description: Biology, Computacional Sciences, Machine Learning, Deep Learning, <strong>Bioinformatics</strong>.
   gravatar: f67902456f1aa69f9b938353391b5069
 
@@ -66,7 +66,7 @@ nav:
     #- /research/
 #   Teaching:
 #     - '/teaching/'
-  Data Science:
+  #Data Science:
 #     - /data_science/
   About:
     - '/about/'
@@ -82,7 +82,7 @@ disqus_short_name: 'forces' # leave blank if you don't want disqus
 
 hero:
   image: '/public/CDMX.jpg'
-  caption: <strong> Emmanuel Castillo G.</strong> México, 2018. 
+  caption: <strong> Emmanuel Castillo.</strong> México, 2018. 
   #caption: Original Artwork &copy; <a href="http://science.sciencemag.org/content/358/6370/1530.full">Science Magazine, Vol. 358, Issue 6370, pp. 1530-1534</a>
 
 # image: http://imgs.xkcd.com/comics/frequentists_vs_bayesians.png
@@ -127,21 +127,6 @@ jacqueline_merrill_2                 : "http://nursing.columbia.edu/profile/jmer
 aaron_schroeder                      : "http://dads2busy.github.io/"
 
 lander_analytics                     : "https://www.landeranalytics.com/"
-
-aur                                  : "https://www.archlinux.org/"
-rstudio-desktop-preview-bin          : "https://aur.archlinux.org/packages/rstudio-desktop-preview-bin/"
-rodeo                                : "https://aur.archlinux.org/packages/rodeo/"
-
-mann                                 : "https://github.com/chendaniely/mann"
-mann_code                            : "https://github.com/chendaniely/multi-agent-neural-network"
-mann2_code                           : "https://github.com/chendaniely/mann2"
-
-mann_sims                            : "https://github.com/chendaniely/multidisciplinary-diffusion-model-experiments"
-mann2_sims                           : "https://github.com/chendaniely/mann2_simulations"
-
-mann_assortativity                   : "https://github.com/chendaniely/mann_assortativity_analysis"
-mann2_analysis                       : "https://github.com/chendaniely/mann2_analysis"
-mannAnalysisR                        : "https://github.com/chendaniely/mannAnalysisR"
 
 #                      __                __      
 #     ____  ____  ____/ /________ ______/ /______
