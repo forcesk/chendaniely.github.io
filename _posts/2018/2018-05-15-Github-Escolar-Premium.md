@@ -12,8 +12,6 @@ tags:
   - Git
 ---
 
-# Obtener Github Premium Gratis
-
 ### Requisitos
 * Ser Estudiante activo en alguna universidad.
 * Contar con un correo institucional "@TuUniversidad.com"
