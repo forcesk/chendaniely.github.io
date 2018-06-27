@@ -13,7 +13,7 @@ tags:
   - DB
 ---
 
-# Conexión a base de datos MySQL usando la Libreria JSTL
+## Conexión a base de datos MySQL usando la Libreria JSTL
 
 ### Requisitos
 * [MySQL](https://dev.mysql.com/downloads/installer/)
