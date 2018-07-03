@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sentiment Analysis 'AMLO' en twitter"
-date:   2018-06-03
+date:   2018-07-03
 
 categories: ML
 
