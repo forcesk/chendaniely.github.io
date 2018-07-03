@@ -86,10 +86,10 @@ print("Sentiment Mean value:  ",mean)
 > Se analizan 10,000 tweets, el código solo imprime 100 por cuestiones de espacio.
 
 ## Los resultados:
-* Se analizaron:  10093  tweets
-* El valor promedio fue:   0.1291160151209013
+* Se analizaron:  10,093  tweets
+* El valor promedio de sentimiento fue: 0.1291160151209013
 
-Donde el valor del sentimiento está entre -1 y 1. Valores posivitos significan opiniones positivas y los valores negativos
+Donde el valor del sentimiento está entre -1 y 1. Valores positivos significan opiniones positivas y los valores negativos
 corresponden a opiniones negativas.
 
 * [Link al repo](https://github.com/forcesk/ML-ForFun/tree/master/AMLO-twitter)
