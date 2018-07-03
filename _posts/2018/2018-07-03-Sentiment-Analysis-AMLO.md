@@ -13,7 +13,7 @@ tags:
   - textblob
 ---
 
-## Aplicando "Sentiment Analysis" en Twitter con AMLO
+## Aplicando "Sentiment Analysis" en Twitter a AMLO
 
 Como resultado de la pasada elección del 1ro de Julio 2018 en México, se dió a conocer al nuevo Presidente electro
 Andrés Manuel Lopez Obrador (AMLO).
