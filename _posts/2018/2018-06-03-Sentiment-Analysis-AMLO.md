@@ -20,7 +20,7 @@ Andrés Manuel Lopez Obrador (AMLO).
 Tomando este suceso como ejemplo me di a la tarea de revisar las opiniones en twitter del nuevo presidente de México.
  
 
-### Para realizar el analisis
+## Para realizar el analisis
 * [tweepy](http://www.tweepy.org/)
 * [TextBlob](https://textblob.readthedocs.io/en/dev/)
 * [Siraj Repo](https://github.com/llSourcell/twitter_sentiment_challenge)
@@ -91,8 +91,8 @@ print("Sentiment Mean value:  ",mean)
 Donde el valor del sentimiento está entre -1 y 1. Valores posivitos significan opiniones positivas y los valores negativos
 corresponden a opiniones negativas.
 
->[Link al repo](https://github.com/forcesk/ML-ForFun/tree/master/AMLO-twitter)
->[LPara ver los resultados AQUI.](https://github.com/forcesk/ML-ForFun/blob/master/AMLO-twitter/AMLO_TwitterSentimentAnalysis.ipynb)
+* [Link al repo](https://github.com/forcesk/ML-ForFun/tree/master/AMLO-twitter)
+* [LPara ver los resultados AQUI.](https://github.com/forcesk/ML-ForFun/blob/master/AMLO-twitter/AMLO_TwitterSentimentAnalysis.ipynb)
 
 
 
