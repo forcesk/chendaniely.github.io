@@ -83,17 +83,21 @@ print("Sentiment Mean value:  ",mean)
 ```
 
 
-> Se analizan 10,000 tweets, el código solo imprime 100 por cuestiones de espacio.
+> Se tomó una muestra de aproximadamente 10,000 tweets, el código solo imprime 100 por cuestiones de espacio.
 
 ## Los resultados:
-* Se analizaron:  10,093  tweets
-* El valor promedio de sentimiento fue: 0.1291160151209013
+* Se analizaron:  10090  tweets
+* Opiniones Positivas:  4482
+* Opiniones Negativas:  1139
+* Sin opinion:  4469
+* Valor Promedio de opinion:   0.09122558920622395
+
 
 Donde el valor del sentimiento está entre -1 y 1. Valores positivos significan opiniones positivas y los valores negativos
 corresponden a opiniones negativas.
 
+![GraphAmlo](https://github.com/forcesk/forcesk.github.io/blob/master/public/EC/GraphAMLO.png)
+
 * [Link al repo](https://github.com/forcesk/ML-ForFun/tree/master/AMLO-twitter)
 * [Para ver los resultados AQUI.](https://github.com/forcesk/ML-ForFun/blob/master/AMLO-twitter/AMLO_TwitterSentimentAnalysis.ipynb)
-
-![GraphAmlo](https://github.com/forcesk/forcesk.github.io/blob/master/public/EC/GraphAMLO.png)
 
