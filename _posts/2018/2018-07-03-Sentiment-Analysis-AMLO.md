@@ -13,11 +13,11 @@ tags:
   - textblob
 ---
 
-## Aplicando "Sentiment Analysis" en Twitter a AMLO
+## "Análisis de Opinión" en Twitter a AMLO
 
 Como resultado de la pasada elección del 1ro de Julio 2018 en México, se dió a conocer al nuevo Presidente electro
 Andrés Manuel Lopez Obrador (AMLO).
-Tomando este suceso como ejemplo me di a la tarea de revisar las opiniones en twitter del nuevo presidente de México.
+Tomando este suceso como ejemplo me di a la tarea de revisar las opiniones en twitter del nuevo presidente de México, utilizando la técnica "Sentiment Analisis".
  
 
 ## Herramientas utilizadas
