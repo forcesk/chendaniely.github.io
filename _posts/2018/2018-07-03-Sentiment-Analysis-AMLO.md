@@ -17,7 +17,7 @@ tags:
 
 Como resultado de la pasada elección del 1ro de Julio 2018 en México, se dió a conocer al nuevo Presidente electro
 Andrés Manuel Lopez Obrador (AMLO).
-Tomando este suceso como ejemplo me di a la tarea de revisar las opiniones en twitter del nuevo presidente de México, utilizando la técnica "Sentiment Analisis".
+Tomando este suceso como ejemplo me di a la tarea de revisar las opiniones en twitter del nuevo presidente de México, utilizando la técnica "Sentiment Analysis".
  
 
 ## Herramientas utilizadas
@@ -109,10 +109,10 @@ plt.show()
 > Se tomó una muestra de aproximadamente 10,000 tweets, el código solo imprime 100 por cuestiones de espacio.
 
 ## Los resultados:
-* Se analizaron:  10090  tweets
-* Opiniones Positivas:  4482
-* Opiniones Negativas:  1139
-* Sin opinion:  4469
+* Se analizaron:  10,090  tweets
+* Opiniones Positivas:  4,482
+* Opiniones Negativas:  1,139
+* Sin opinion:  4,469
 * Valor Promedio de opinion:   0.09122558920622395
 
 
@@ -122,5 +122,5 @@ corresponden a opiniones negativas.
 ![GraphAmlo](https://github.com/forcesk/forcesk.github.io/blob/master/public/EC/GraphAMLO.png)
 
 * [Link al repo](https://github.com/forcesk/ML-ForFun/tree/master/AMLO-twitter)
-* [Para ver los resultados AQUI.](https://github.com/forcesk/ML-ForFun/blob/master/AMLO-twitter/AMLO_TwitterSentimentAnalysis.ipynb)
+* [Para ver los resultados AQUI en Notebook.](https://github.com/forcesk/ML-ForFun/blob/master/AMLO-twitter/AMLO_TwitterSentimentAnalysis.ipynb)
 
