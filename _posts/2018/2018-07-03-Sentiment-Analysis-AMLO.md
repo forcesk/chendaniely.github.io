@@ -95,5 +95,5 @@ corresponden a opiniones negativas.
 * [Link al repo](https://github.com/forcesk/ML-ForFun/tree/master/AMLO-twitter)
 * [Para ver los resultados AQUI.](https://github.com/forcesk/ML-ForFun/blob/master/AMLO-twitter/AMLO_TwitterSentimentAnalysis.ipynb)
 
-![GraphAmlo]('https://github.com/forcesk/forcesk.github.io/public/EC/GraphAMLO.png')
+![GraphAmlo](https://github.com/forcesk/forcesk.github.io/public/EC/GraphAMLO.png)
 
