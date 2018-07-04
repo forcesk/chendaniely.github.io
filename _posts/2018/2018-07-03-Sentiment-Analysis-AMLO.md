@@ -119,7 +119,6 @@ plt.show()
 Donde el valor del sentimiento está entre -1 y 1. Valores positivos significan opiniones positivas y los valores negativos
 corresponden a opiniones negativas.
 
-![GraphAmlo](https://github.com/forcesk/forcesk.github.io/blob/master/public/EC/GraphAMLO.png)
 ![AMLOGraph](https://raw.githubusercontent.com/forcesk/forcesk.github.io/master/public/EC/GraphAMLO.png)
 
 * [Link al repo](https://github.com/forcesk/ML-ForFun/tree/master/AMLO-twitter)
