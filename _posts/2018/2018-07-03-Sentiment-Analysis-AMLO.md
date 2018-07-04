@@ -122,6 +122,7 @@ corresponden a opiniones negativas.
 ![GraphAmlo](https://github.com/forcesk/forcesk.github.io/blob/master/public/EC/GraphAMLO.png)
 ![My helpful screenshot]({{ "https://github.com/forcesk/forcesk.github.io/blob/master/public/EC/GraphAMLO.png}})
 ![image-title-here](https://github.com/forcesk/forcesk.github.io/blob/master/public/EC/GraphAMLO.png){:class="img-responsive"}
+![purity](https://raw.githubusercontent.com/forcesk/forcesk.github.io/master/public/EC/GraphAMLO.png)
 
 * [Link al repo](https://github.com/forcesk/ML-ForFun/tree/master/AMLO-twitter)
 * [Para ver los resultados AQUI en Notebook.](https://github.com/forcesk/ML-ForFun/blob/master/AMLO-twitter/AMLO_TwitterSentimentAnalysis.ipynb)
