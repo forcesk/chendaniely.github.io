@@ -34,13 +34,16 @@ la traducción, así que me tuve que limitar a revisar solo tweets en inglés.
 ## El codigo del programa
 ```python
 from textblob import TextBlob
+import matplotlib.pyplot as plt
 import nltk
 import tweepy
 
-consumer_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx'
-consumer_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+#Code
+
+consumer_key = 'XXXXXXXXXXXXXXXXXXXXX'
+consumer_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 access_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
-access_token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+access_token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
 auth.set_access_token(access_token,access_token_secret)
@@ -68,17 +71,37 @@ for tweets in searched_tweets:
 
 mean = 0
 count = 0
+bad = 0
+good = 0
+noOpinion = 0
+Ploting = []
 for tweets in searched_tweets:
   word = TextBlob(tweets.text)
-  ##if word.detect_language() != 'en':
-   ## word = word.translate(to='en')
-
+  
+  if word.sentiment.polarity > 0:
+    good = good + 1
+  
+  elif word.sentiment.polarity == 0:
+    noOpinion = noOpinion +1
+  
+  else:
+    bad = bad + 1 
+  Ploting.append(word.sentiment.polarity) 	  
   #print(word.sentiment)
   mean = mean + word.sentiment.polarity
   count = count + 1
 mean = mean/count
 print("\nAnalysis based on: ",count," tweets")
+print("Positive Opinion: ",good)
+print("Negative opinion: ",bad)
+print("No opinion: ",noOpinion)
 print("Sentiment Mean value:  ",mean)
+
+plt.plot(Ploting)
+plt.ylabel('Sentiment')
+plt.xlabel('Number of tweets')
+plt.show()
+
 
 ```
 
