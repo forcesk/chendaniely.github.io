@@ -121,6 +121,6 @@ corresponden a opiniones negativas.
 
 ![AMLOGraph](https://raw.githubusercontent.com/forcesk/forcesk.github.io/master/public/EC/GraphAMLO.png)
 
-* [Link al repo](https://github.com/forcesk/ML-ForFun/tree/master/AMLO-twitter)
-* [Para ver los resultados AQUI en Notebook.](https://github.com/forcesk/ML-ForFun/blob/master/AMLO-twitter/AMLO_TwitterSentimentAnalysis.ipynb)
+* [Link al repo](https://github.com/forcesk/ML-Repo/tree/master/AMLO-twitter)
+* [Para ver el código en acción AQUI.](https://github.com/forcesk/ML-Repo/blob/master/AMLO-twitter/AMLO_TwitterSentimentAnalysis.ipynb)
 
