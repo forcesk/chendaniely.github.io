@@ -7,7 +7,6 @@ categories: RandomCode
 
 tags:
   - Jekyll
-  - Static
   - Github
   - WEB
 ---
