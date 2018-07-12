@@ -25,10 +25,10 @@ Today in our new favorite section: "Things Happens".
 ```
 $ javac -version
 ```
-If the answer is: **javac 1.8.0_66**
+If the answer is: **javac 1.8.0_66** <br />
 good, continue reading.
 
-> Otherwise go to install JDK first [Here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
+> Otherwise go to install JDK [Here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) first.
 
 The problem is caused by your netbeans,it don't know where your JDK is. <br />
 By default the path is: **"/usr"** in your NetBeans config file. <br />
@@ -44,10 +44,10 @@ But I don't know why when you install the JDK 8, the default path is "/usr/lib/j
 
 * The following line needs to be set:
 > netbeans_jdkhome="/usr/lib/jvm/java-8-oracle"
-
+<br />
 And there you go!, problem fixed.
 
 ### Tested on:
-Ubuntu 16.04
-Netbeans 8.2
+Ubuntu 16.04 <br />
+Netbeans 8.2 <br />
 JDK 8
