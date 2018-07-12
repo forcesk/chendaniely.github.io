@@ -16,9 +16,9 @@ tags:
 
 Today in our new favorite section: "Things Happens".
 
-* 1. You need to make sure to install JDK before you install NetBeans.
-* 2. NetBeans instaled withour errors.
-* 3. Triying to create a new project... "The JDK is missing and is required to run some NetBeans modules"
+*  You need to make sure to install JDK before you install NetBeans.
+*  NetBeans instaled withour errors.
+*  Triying to create a new project... "The JDK is missing and is required to run some NetBeans modules"
 
 <!-- more -->
 
@@ -31,7 +31,8 @@ good, continue reading.
 > Otherwise go to install JDK first [Here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
 The problem is caused by your netbeans,it don't know where your JDK is.
-by default the path is: "/usr" but I don't know why, when you install the JDK 8, the default path is "/usr/lib/jvm/java-8-oracle"
+By default the path is: **"/usr"** in your NetBeans config file.
+But I don't know why when you install the JDK 8, the default path is "/usr/lib/jvm/java-8-oracle"
 
 
 ###  Fixing the issue
