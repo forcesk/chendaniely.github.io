@@ -6,11 +6,10 @@ date:   2018-04-28
 categories: Tutoriales
 
 tags:
-  - java
+  - jsp
   - JSTL
   - MySQL
   - WEB
-  - DB
 ---
 
 ## Conexión a base de datos MySQL usando la Libreria JSTL
