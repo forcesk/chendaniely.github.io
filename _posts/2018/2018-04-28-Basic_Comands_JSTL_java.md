@@ -3,7 +3,7 @@ layout: post
 title:  "Comandos Básicos JSTL"
 date:   2018-04-28
 
-categories: Tutoriales
+categories: Tutorials
 
 tags:
   - jsp
