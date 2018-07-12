@@ -25,11 +25,11 @@ Today in our new favorite section: "Things Happens".
 ```
 $ javac -version
 ```
-> If the answer is: javac 1.8.0_66
-> good, continue reading.
-> otherwise go to install JDK first.
+If the answer is: javac 1.8.0_66
+Good, continue reading.
+Otherwise go to install JDK first [Here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
-The problem is your netbeans don't know what your JDK is.
+The problem is caused by your netbeans,it don't know where your JDK is.
 by default the path is: "/usr" but I don't know why, when you install the JDK 8, the default path is "/usr/lib/jvm/java-8-oracle"
 
 
