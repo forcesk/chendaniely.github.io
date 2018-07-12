@@ -8,8 +8,6 @@ categories: Tutorials
 tags:
   - Github
   - Free
-  - Student
-  - Git
 ---
 
 ### Requisitos
