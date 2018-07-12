@@ -9,8 +9,6 @@ tags:
   - Machine Learning
   - Python
   - twitter
-  - tweepy
-  - textblob
 ---
 
 ## "Análisis de Opinión" en Twitter a AMLO
