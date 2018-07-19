@@ -14,6 +14,8 @@ tags:
 
 Today in ours favorite section: "Things Happens".
 
+*The Spotlight Search Bar*
+
 ![SpotLight](http://www.intego.com/mac-security-blog/wp-content/uploads/2015/01/spotlight-600x300.jpeg)
 
 The history was simple, my macbook was dead, super hot, to slow, useless.
