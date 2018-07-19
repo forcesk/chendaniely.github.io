@@ -18,10 +18,10 @@ Today in ours favorite section: "Things Happens".
 
 ![SpotLight](http://www.intego.com/mac-security-blog/wp-content/uploads/2015/01/spotlight-600x300.jpeg)
 
-The history was simple, my macbook was dead, super hot, to slow, useless.
-Looking in the "Activity Monitor" I notice that a process call "mdworker" was eating a lot of my memory, a lot of the energy from my macbook
+The history is simple, my macbook it's too slow, super hot, and useless.
+Looking in the "Activity Monitor" I notice a process call "mdworker" it was eating a lot of my memory, a lot of the energy from my macbook
 and the disk was in trouble cause by the same process.
-Searching of internet I found that process it's part of the indexing of the Spotlight search bar, useless bar (for searching, I mean nobody use that search). 
+Searching on internet I found that process it's part of the indexing of the Spotlight search bar, useless bar (for searching, I mean nobody use that search and even if you use it, I don't think worth it). 
 Thanks Apple.
 
 ![Activity Monitor](https://www.howtogeek.com/wp-content/uploads/2015/09/ActivityMonitorMain.png)
