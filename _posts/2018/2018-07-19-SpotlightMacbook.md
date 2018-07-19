@@ -21,14 +21,14 @@ Today in ours favorite section: "Things Happens".
 The history is simple, my macbook it's too slow, super hot, and useless.
 Looking in the "Activity Monitor" I notice a process call "mdworker" it was eating a lot of my memory, a lot of the energy from my macbook
 and the disk was in trouble cause by the same process.
-Searching on internet I found that process it's part of the indexing of the Spotlight search bar, useless bar (for searching, I mean nobody use that search and even if you use it, I don't think worth it). 
+Searching on internet I found that process it's part of the indexing of Spotlight, useless (for searching, I mean nobody use that thing and even if you use it, I don't think worth it). <br />
 Thanks Apple.
 
 ![Activity Monitor](https://www.howtogeek.com/wp-content/uploads/2015/09/ActivityMonitorMain.png)
 
 <!-- more -->
 
-### To fix the problem: kill the spotligh service.
+### To fix the problem: kill the spotlight service.
 
 ![System](https://images.techhive.com/images/article/2013/10/mavericks_prefs_categories-we-dont-need-em-100065975-orig.png)
 
