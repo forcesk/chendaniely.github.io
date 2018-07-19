@@ -35,7 +35,7 @@ Thanks Apple.
 1.  Go to "System Preferences" > "SpotLight". And uncheck all the categories, uncheck everything.
 2.  From the finder, select “Go” > “Utilities” > “Terminal“.
 3.  In terminal for disable for good, write: <br />
-  * sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
+  > sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
 4.  You can enable the Spotlight again but, why do you do that? 
 
 *And there you go!, problem fixed.*
