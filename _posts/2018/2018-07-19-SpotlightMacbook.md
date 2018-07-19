@@ -42,5 +42,5 @@ Thanks Apple.
 *And there you go!, problem fixed.*
 
 ### Tested on:
-MacOS Hight Sierra <br />
+MacOS High Sierra <br />
 Macbook PRO <br />
