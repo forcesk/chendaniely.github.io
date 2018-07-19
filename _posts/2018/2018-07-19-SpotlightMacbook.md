@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spotlight search bar: The Macbook Killer "
-date:   2018-07-12¿9
+date:   2018-07-19
 
 categories: ThingsHappens
 
@@ -24,9 +24,11 @@ and the disk was in trouble cause by the same process.
 Searching on internet I found that process it's part of the indexing of Spotlight, useless (for searching, I mean nobody use that thing and even if you use it, I don't think worth it). <br />
 Thanks Apple.
 
+<!-- more -->
+
 ![Activity Monitor](https://www.howtogeek.com/wp-content/uploads/2015/09/ActivityMonitorMain.png)
 
-<!-- more -->
+
 
 ### To fix the problem: kill the spotlight service.
 
